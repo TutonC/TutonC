@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Tuton!
 
 Welcome to my little corner of GitHub!  
-I’m passionate about learning new technologies, building projects, and growing as a developer.
+I’m passionate about learning new technologies, building projects, and growing together.
 
 🚀 What you'll find here:
 - 🔧 Projects I’m working on
